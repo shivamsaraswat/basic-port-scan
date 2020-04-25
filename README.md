@@ -8,7 +8,7 @@ It has options like -
   5. Scan your choosen ports
 
 ##**Examples**
-![First Example](https://drive.google.com/open?id=19HHMUDQDh0tJyYXRGIZJAaUZEusv3ZL_)
+![First Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/1.png)
 ![Second Example](https://drive.google.com/open?id=1LneKkJ21Bbo5mKUNX9E5Yw7TJYC6kDvV)
 ![Third Example](https://drive.google.com/open?id=18YjPDcOqZrLAoybPwZm4ZOVeOwFub_Ik)
 ![Fourth Example](https://drive.google.com/open?id=1lzrCoINaxSTYo5McHe71nRXgVHOav-CC)
