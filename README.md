@@ -6,7 +6,7 @@ It has options like -
 > 2. Scan all ports
 > 3. Scan according to custom range
 > 4. Scan well-known ports
-> 5. Scan your choosen ports
+> 5. Scan your chosen ports
 
 ## Examples
 
