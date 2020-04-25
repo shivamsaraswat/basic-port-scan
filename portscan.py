@@ -15,8 +15,11 @@ print("3. Scan according to custom range")
 print("4. Scan well-known ports")
 print("5. Scan your chosen ports")
 scan_mode = int(input("Choose option accordingly: "))
-if(scan_mode not in [1,2,3,4,5]):
-	print("You have choosen wrong option")
+if(len(scan_mode) == 0):
+	print("You have not chosen any option")
+	sys.exit()					# if not choosen wrong option, program stops executing
+elif(scan_mode not in [1,2,3,4,5]):
+	print("You have not choosen correct option")
 	sys.exit()				        # if choosen wrong option, program stops executing
 
 # defining the target
