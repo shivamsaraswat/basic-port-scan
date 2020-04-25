@@ -1,5 +1,6 @@
 # Basic Port Scanner
 This is a basic port scanner written in Python 3.
+
 It has options like - 
   1. Scan reserved ports
   2. Scan all ports
