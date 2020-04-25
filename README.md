@@ -15,3 +15,9 @@ It has options like -
 ![Third Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/3.png)
 ![Fourth Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/4.png)
 ![Fifth Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/5.png)
+
+### How to use? 
+  git clone https://github.com/shivamsaraswat/basic-port-scan.git
+  cd basic-port-scan
+  Make it executable using command - chmod +x portscan.py
+  ./portscan.py
