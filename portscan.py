@@ -13,7 +13,7 @@ print("1. Scan reserved ports")
 print("2. Scan all ports")
 print("3. Scan according to custom range")
 print("4. Scan well-known ports")
-print("5. Scan your choosen ports")
+print("5. Scan your chosen ports")
 scan_mode = int(input("Choose option accordingly: "))
 if(scan_mode not in [1,2,3,4,5]):
 	print("You have choosen wrong option")
