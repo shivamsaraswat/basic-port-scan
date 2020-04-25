@@ -18,8 +18,8 @@ It has options like -
 
 ### How to use? 
 ```
-*git clone https://github.com/shivamsaraswat/basic-port-scan.git*
-*cd basic-port-scan*
-*Make it executable using command - chmod +x portscan.py*
-*./portscan.py*
+git clone https://github.com/shivamsaraswat/basic-port-scan.git
+cd basic-port-scan
+Make it executable using command - chmod +x portscan.py
+./portscan.py
 ```
