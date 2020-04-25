@@ -20,6 +20,6 @@ It has options like -
 ```
 git clone https://github.com/shivamsaraswat/basic-port-scan.git
 cd basic-port-scan
-Make it executable using command - chmod +x portscan.py
+Make script executable using command - chmod +x portscan.py
 ./portscan.py
 ```
