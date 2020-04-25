@@ -2,11 +2,11 @@
 This is a basic port scanner written in Python 3.
 
 It has options like - 
-  1. Scan reserved ports
-  2. Scan all ports
-  3. Scan according to custom range
-  4. Scan well-known ports
-  5. Scan your choosen ports
+1. Scan reserved ports
+2. Scan all ports
+3. Scan according to custom range
+4. Scan well-known ports
+5. Scan your choosen ports
 
 ## Examples
 
