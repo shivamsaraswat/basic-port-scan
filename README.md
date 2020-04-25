@@ -1,4 +1,4 @@
-#**Basic Port Scanner**
+#Basic Port Scanner
 This is a basic port scanner.
 It has options like - 
   1. Scan reserved ports
@@ -7,7 +7,7 @@ It has options like -
   4. Scan well-known ports
   5. Scan your choosen ports
 
-##**Examples**
+##Examples
 
 ![First Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/1.png)
 ![Second Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/2.png)
