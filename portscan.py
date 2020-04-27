@@ -60,8 +60,9 @@ def get_ports(mode):
         for port in range(0, 65536):
             queue.put(port)
     elif(mode == 3):
-        custom_range = int(input("Enter your custom range: "))
-        for port in range(0, custom_range):
+        custom_range = int(input("Enter your custom range (seperate by blank): "))
+	start, end = custom_range.split()
+        for port in range(int(start), int(end)):
             queue.put(port)
     elif(mode == 4):
         ports = [20, 21, 22, 23, 25, 53, 80, 110, 169, 443, 445]
