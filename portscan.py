@@ -41,10 +41,9 @@ print('-' * 50)
 def port_scan(port):
     try:
     	# create a socket object
-    	# AF_INET = ipv4, SOCK_STREAM = port (TCP)
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)	
-        socket.setdefaulttimeout(1)			 # attempt to connect to port, if not connectable, 
-							 # waits for 1 second to connect, move on
+	# AF_INET = (ipv4, port), SOCK_STREAM = socket type for TCP
+        socket.setdefaulttimeout(1)			 # set the default timeout in seconds for new socket objects
         s.connect((target, port))		 	 # making connection to the target at specified port
         return True	
     
