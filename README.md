@@ -10,11 +10,11 @@ It has options like -
 
 ## Examples
 
-![First Example](11.png)
-![Second Example](22.png)
-![Third Example](33.png)
-![Fourth Example](44.png)
-![Fifth Example](55.png)
+![First Example](images/11.png)
+![Second Example](images/22.png)
+![Third Example](images/33.png)
+![Fourth Example](images/44.png)
+![Fifth Example](images/55.png)
 
 ### How to use? 
 ```
