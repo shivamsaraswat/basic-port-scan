@@ -21,5 +21,5 @@ It has options like -
 git clone https://github.com/shivamsaraswat/basic-port-scan.git
 cd basic-port-scan
 Make script executable using command - chmod +x netmappy.py
-./portscan.py
+./netmappy.py
 ```
