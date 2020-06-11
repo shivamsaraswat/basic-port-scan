@@ -10,11 +10,11 @@ It has options like -
 
 ## Examples
 
-![First Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/1.png)
-![Second Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/2.png)
-![Third Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/3.png)
-![Fourth Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/4.png)
-![Fifth Example](https://github.com/shivamsaraswat/basic-port-scan/blob/master/5.png)
+![First Example](~/Desktop/basic-port-scan/images/11.png)
+![Second Example](~/Desktop/basic-port-scan/images/22.png)
+![Third Example](~/Desktop/basic-port-scan/images/33.png)
+![Fourth Example](~/Desktop/basic-port-scan/images/44.png)
+![Fifth Example](~/Desktop/basic-port-scan/images/55.png)
 
 ### How to use? 
 ```
