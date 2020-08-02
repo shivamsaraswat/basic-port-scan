@@ -18,8 +18,8 @@ It has options like -
 
 ### How to use? 
 ```
-git clone https://github.com/shivamsaraswat/basic-port-scan.git
-cd basic-port-scan
+git clone https://github.com/shivamsaraswat/netmappy.git
+cd netmappy
 Make script executable using command - chmod +x netmappy.py
 ./netmappy.py
 ```
