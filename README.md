@@ -1,4 +1,4 @@
-# Basic Port Scanner
+# NETMAPPY
 This is a basic port scanner written in Python 3.
 
 It has options like - 
