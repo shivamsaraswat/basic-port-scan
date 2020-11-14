@@ -109,7 +109,7 @@ def run_scanner(threads, mode):
     open_ports.sort()
     print("PORT    SERVICE")
     #print("Open ports are:", open_ports)		# printing open ports lists
-    ports_service = open('my_ports')
+    ports_service = open('my_ports.txt')
     ps = ports_service.readlines()
     for line in ps:	
     	line = line.split()
