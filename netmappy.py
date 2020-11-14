@@ -1,5 +1,3 @@
-#!/bin/python3
-
 from colorama import Fore, Style            
 print(Fore.CYAN + r"@@    @ @$$$$$$$ $$$$$$$ @@    @@     @@     @$$$$$$ @$$$$$$ @     @")
 print(Fore.CYAN + r"@ @   @ @           @    @ @  @ @    @  @    @     $ @     $  @   @ ")
